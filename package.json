@@ -1,0 +1,17 @@
+{
+  "name": "inkdrop-note-templates",
+  "main": "./lib/inkdrop-note-templates",
+  "version": "0.0.0",
+  "description": "Note template system for Inkdrops",
+  "keywords": [],
+  "repository": "https://github.com/azu/inkdrop-note-templates",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {
+    "liquidjs": "^9.12.0",
+    "markdown-yaml-metadata-parser": "^2.0.5"
+  },
+  "devDependencies": {}
+}
