@@ -74,4 +74,3 @@ MIT
 ## References
 
 - [Creating a Note Template | Inkdrop Documentation](https://docs.inkdrop.app/manual/creating-a-note-template)
-- [core:note-list-show-notes-with-status](https://docs.inkdrop.app/manual/list-of-commands#corenote-list-show-notes-with-tag)
