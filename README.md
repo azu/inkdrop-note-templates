@@ -14,9 +14,11 @@ Install with [`ipm`](https://docs.inkdrop.app/manual/extend-inkdrop-with-plugins
 
 ### Create Templates
 
-You need to create note template in `_Template` book of your inkdrop.
+You need to create note template in `_Templates` book of your inkdrop.
 
-1. Create new "_Templates" notebook
+:memo: Currently `_Templates` is hard code name, welcome to Pull Request!
+
+1. Create new `_Templates` notebook
 2. Add note as template  
 
 Note template should have content and metadata as [Yaml Front Matter](https://jekyllrb.com/docs/front-matter/).
@@ -53,6 +55,7 @@ title: "{{'now' | date: '%Y-%m-%d'}} Taks"
 
 - [ ] TASK
 ```
+
 
 ### Use Templates
 
