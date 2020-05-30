@@ -26,7 +26,7 @@ Note template should have content and metadata as [Yaml Front Matter](https://je
 - `id`: unique id for [command](https://docs.inkdrop.app/manual/list-of-commands)
 - `label`: Menu label for the template
 - `title`: Render title with [LiquidJS](https://liquidjs.com/) and set it as new note's title 
-- body`: Render body with [LiquidJS](https://liquidjs.com/) and set it as new note's body
+- note's body: Render body with [LiquidJS](https://liquidjs.com/) and set it as new note's body
  
 :memo: Inherit other properties like tags from Template note.
  
