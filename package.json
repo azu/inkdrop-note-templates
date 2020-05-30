@@ -1,7 +1,7 @@
 {
   "name": "inkdrop-note-templates",
   "main": "./lib/inkdrop-note-templates",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Note template system for Inkdrop",
   "keywords": [],
   "repository": "https://github.com/azu/inkdrop-note-templates",
