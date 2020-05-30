@@ -2,6 +2,8 @@
 
 Note template system for [Inkdrop](https://inkdrop.app).
 
+[![](docs/resources/video.png)](https://twitter.com/azu_oss/status/1266670458532847616)
+
 ## Installation
 
 Install with [`ipm`](https://docs.inkdrop.app/manual/extend-inkdrop-with-plugins):
