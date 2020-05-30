@@ -50,7 +50,6 @@ title: "{{'now' | date: '%Y-%m-%d'}} Taks"
 - [ ] TASK
 ```
 
-
 ### Use Templates
 
 You can create new note from "File" > "Templates" > your templates.
@@ -58,6 +57,19 @@ You can create new note from "File" > "Templates" > your templates.
 ![template menu](docs/resources/template.png)
 
 :warning: If you have updated your template, Please restart inkdrop application.
+
+#### Shortcut for Template
+
+Call `inkdrop-note-templates:${template.id}` from shortcut and create a new note with the template.
+
+You open your [keymap.cson](https://docs.inkdrop.app/manual/customizing-keybindings) and edit it.
+
+Following example create new file with `id: today-task` template.
+
+```cson
+'body':
+  'cmd-shift-e': 'inkdrop-note-templates:today-task'
+```
 
 ## Contributing
 
