@@ -1,6 +1,6 @@
 # inkdrop-note-templates
 
-Note template system for Inkdrops
+Note template system for [Inkdrop](https://inkdrop.app).
 
 ## Installation
 
