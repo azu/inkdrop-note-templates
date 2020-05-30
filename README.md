@@ -28,6 +28,8 @@ Note template should have content and metadata as [Yaml Front Matter](https://je
 - `title`: Render title with [LiquidJS](https://liquidjs.com/) and set it as new note's title 
 - body`: Render body with [LiquidJS](https://liquidjs.com/) and set it as new note's body
  
+:memo: Inherit other properties like tags from Template note.
+ 
 ```markdown
 ---
 id: test
