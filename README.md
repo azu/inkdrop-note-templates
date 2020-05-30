@@ -4,7 +4,11 @@ Note template system for [Inkdrop](https://inkdrop.app).
 
 ## Installation
 
+Install with [`ipm`](https://docs.inkdrop.app/manual/extend-inkdrop-with-plugins):
+
     ipm install inkdrop-note-templates
+
+> [inkdrop-note-templates - Plugin - Inkdrop](https://my.inkdrop.app/plugins/inkdrop-note-templates)
 
 ## Usage
 
