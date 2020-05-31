@@ -3,6 +3,7 @@
 Note template system for [Inkdrop](https://inkdrop.app).
 
 [![](https://raw.githubusercontent.com/azu/inkdrop-note-templates/master/docs/resources/video.png)](https://twitter.com/azu_oss/status/1266670458532847616)
+> https://twitter.com/azu_oss/status/1266670458532847616
 
 ## Installation
 
