@@ -2,7 +2,7 @@
 
 Note template system for [Inkdrop](https://inkdrop.app).
 
-[![](docs/resources/video.png)](https://twitter.com/azu_oss/status/1266670458532847616)
+[![](https://raw.githubusercontent.com/azu/inkdrop-note-templates/master/docs/resources/video.png)](https://twitter.com/azu_oss/status/1266670458532847616)
 
 ## Installation
 
@@ -65,7 +65,7 @@ title: "{{'now' | date: '%Y-%m-%d'}} Taks"
 
 You can create new note from "File" > "Templates" > your templates.
 
-![template menu](docs/resources/template.png)
+![template menu](https://raw.githubusercontent.com/azu/inkdrop-note-templates/master/docs/resources/template.png)
 
 :warning: If you have updated your template, Please restart inkdrop application.
 
