@@ -83,6 +83,10 @@ Following example create new file with `id: today-task` template.
   'cmd-shift-e': 'inkdrop-note-templates:today-task'
 ```
 
+## Related Inkdrop plugins
+
+Search [Topics: inkdrop](https://github.com/topics/inkdrop?q=user%3Aazu) on GitHub.
+
 ## Contributing
 
 1. Fork it!
