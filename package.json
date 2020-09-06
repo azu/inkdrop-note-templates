@@ -7,7 +7,7 @@
   "repository": "https://github.com/azu/inkdrop-note-templates",
   "license": "MIT",
   "engines": {
-    "inkdrop": "^4.x"
+    "inkdrop": "^5.x"
   },
   "dependencies": {
     "liquidjs": "^9.12.0",
