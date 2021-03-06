@@ -17,12 +17,12 @@ Install with [`ipm`](https://docs.inkdrop.app/manual/extend-inkdrop-with-plugins
 
 ### Create Templates
 
-You need to create note template in `_Templates` book of your inkdrop.
+You can create templates in two ways.
 
-:memo: Currently `_Templates` is hard code name, welcome to Pull Request!
+1. Create templates under `_Templates` notebook.
+2. Create templates by assigning `Template` tag to them.
 
-1. Create new `_Templates` notebook
-2. Add note as template  
+:memo: Currently `_Templates` and `Template` are hard-coded names, welcome to Pull Request!
 
 Note template should have content and metadata as [Yaml Front Matter](https://jekyllrb.com/docs/front-matter/).
 
