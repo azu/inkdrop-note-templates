@@ -53,7 +53,7 @@ so, You can use template syntax in `title` and body.
 ---
 id: today-task
 label: "Today Task"
-title: "{{'now' | date: '%Y-%m-%d'}} Taks"
+title: "{{'now' | date: '%Y-%m-%d'}} Task"
 ---
 
 ## TODO
